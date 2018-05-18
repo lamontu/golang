@@ -1,3 +1,3 @@
-﻿for i = 0 to 5
+﻿for i = 0 to 6
  document.write(i)
 next
